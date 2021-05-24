@@ -1,0 +1,12 @@
+.parallax{
+    background-image: url(../RolagemdeFoto/Gatinho.jpeg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    text-align: center;
+}
+
